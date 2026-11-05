@@ -83,10 +83,3 @@ Tip: extract the zip and commit the files directly to the repo so the code is br
 
 Contributions are welcome. Fork the repo, create a branch, and open a pull request.
 
-## License
-
-Add a license (e.g., MIT) or remove this section.
-
-## Author
-
-**eswarc440-lgtm** — [GitHub](https://github.com/eswarc440-lgtm)
