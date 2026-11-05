@@ -2,7 +2,6 @@
 
 An AI-powered project for forecasting retail demand, helping stores plan inventory, reduce stockouts, and avoid overstocking.
 
-> **Note:** Items marked *(update)* are placeholders. Edit them to match your actual code.
 
 ## Overview
 
@@ -11,22 +10,15 @@ DemandSense AI analyzes retail sales data to predict future product demand. The 
 ## Features
 
 - Retail demand forecasting from historical sales data
-- Visual insights into sales trends and predictions *(update)*
-- AI-assisted recommendations for inventory planning *(update)*
-- Easy to run locally *(update)*
+- Visual insights into sales trends and predictions
+- AI-assisted recommendations for inventory planning 
+- Easy to run locally 
 
-## Tech Stack
-
-- **Frontend / App:** *(update, e.g. React + TypeScript + Vite, or Python + Streamlit)*
-- **AI / Forecasting:** *(update, e.g. Gemini API, scikit-learn, XGBoost)*
-- **Other tools:** *(update)*
-
-## Getting Started
 
 ### Prerequisites
 
-- Node.js 18+ *(or Python 3.9+, depending on your stack)*
-- An API key, if the project uses an AI service *(update)*
+- Node.js 18+ 
+- An API key, if the project uses an AI service 
 
 ### Installation
 
@@ -46,23 +38,11 @@ npm install
 npm run dev
 ```
 
-### Environment Variables
-
-If the app uses an API key, create a `.env.local` file in the project folder:
-
-```
-GEMINI_API_KEY=your_api_key_here
-```
-
-*(update or remove)*
-
 ## Usage
 
 1. Launch the app using the steps above.
 2. Upload or select your retail sales data.
 3. View the demand forecast and insights.
-
-*(update with the real workflow)*
 
 ## Project Structure
 
